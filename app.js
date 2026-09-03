@@ -333,6 +333,6 @@
 
   // ---------- Credits hover ----------
   wireButton('Credits_container', 'Credits_container_hover', () => {
-    window.open('https://instagram.com/REPLACE_ME', '_blank'); // TODO: swap in Mimi's real handle
+    window.open('https://instagram.com/maddkadd');
   });
 })();
